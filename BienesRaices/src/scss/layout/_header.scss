@@ -21,6 +21,7 @@
             }
         }
     }
+    
 }
 
 .contenido-header{
@@ -33,5 +34,11 @@
         color: $blanco;
         font-weight: $bold;
         line-height: 2;
+    }
+}
+
+.navegacion{
+    a:hover{
+        color: $verde;
     }
 }
